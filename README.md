@@ -18,4 +18,6 @@
 
  - [HackIIITD](https://github.com/Parizval/Certificates/blob/master/src/Anmol%20Goyal.pdf)
  
+ - [KJSCE HACK]()
+
 ## ![Dapps](https://github.com/Parizval/Certificates/blob/master/img/network.png) Blockchain
