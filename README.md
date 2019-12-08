@@ -8,7 +8,7 @@
    
    - [MongoDB for Java Developers](https://github.com/Parizval/Certificates/blob/master/src/M220J%20-%20Course%20Completion%20Confirmation.pdf)
    
-## Machine Learning & Finance
+## ![Machine Learning](https://github.com/Parizval/Certificates/blob/master/img/chip.png) Machine Learning & Finance
 
    - [Guided Tour of Machine Learning in Finance](https://github.com/Parizval/Certificates/blob/master/src/GuidedTourofMachineLearning.pdf)
    
