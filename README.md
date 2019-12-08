@@ -14,6 +14,6 @@
    
    - [Fundamentals of Machine Learning in Finance](https://github.com/Parizval/Certificates/blob/master/src/FundamentalsofMachineLearninginFinance.pdf)
    
-## Hackathons
+## ![Hackathons](https://github.com/Parizval/Certificates/blob/master/img/hackathon.png) Hackathons
 
  - [HackIIITD](https://github.com/Parizval/Certificates/blob/master/src/Anmol%20Goyal.pdf)
