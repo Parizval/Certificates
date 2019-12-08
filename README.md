@@ -12,4 +12,4 @@
 
    - [Guided Tour of Machine Learning in Finance](https://github.com/Parizval/Certificates/blob/master/src/GuidedTourofMachineLearning.pdf)
    
-   - [Fundamentals of Machine Learning in Finance]()
+   - [Fundamentals of Machine Learning in Finance](https://github.com/Parizval/Certificates/blob/master/src/FundamentalsofMachineLearninginFinance.pdf)
