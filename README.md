@@ -21,6 +21,8 @@
  - [KJSCE HACK]()
 
  - [HACKCBS]()
+ 
+ - [HACKGTBIT](https://www.youtube.com/watch?v=Fk12ELJ9Bww)
 
 ## ![Dapps](https://github.com/Parizval/Certificates/blob/master/img/network.png) Blockchain
 
