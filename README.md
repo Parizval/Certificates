@@ -29,3 +29,12 @@
 ## ![Dapps](https://github.com/Parizval/Certificates/blob/master/img/network.png) Blockchain
 
  - [Create Ethereum & Blockchain Applications Using Solidity](https://github.com/Parizval/Certificates/blob/master/src/UC-QWDPZTIQ.pdf)
+
+## ![](https://github.com/Parizval/Certificates/blob/master/img/code.png) Hacks
+
+ - [Fitblocks](https://devfolio.co/submissions/fitblocks)
+ 
+ - [Diversify](https://devfolio.co/submissions/diversify)
+ 
+
+ 
