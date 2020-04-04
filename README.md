@@ -23,6 +23,8 @@
  - [HACKCBS]()
  
  - [HACKGTBIT](https://www.youtube.com/watch?v=Fk12ELJ9Bww)
+ 
+ - [HACK INFINITY 2.0](https://github.com/Parizval/Certificates/blob/master/src/HI_1-20.pdf)
 
 ## ![Dapps](https://github.com/Parizval/Certificates/blob/master/img/network.png) Blockchain
 
