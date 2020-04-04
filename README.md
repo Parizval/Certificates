@@ -36,5 +36,7 @@
  
  - [Diversify](https://devfolio.co/submissions/diversify)
  
-
+ - [Nav](https://devfolio.co/submissions/nav-3)
+ 
+ - [Fintact](https://devfolio.co/submissions/ethereum-track-fintact)
  
