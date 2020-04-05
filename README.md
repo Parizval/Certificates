@@ -26,6 +26,17 @@
  
  - [HACK INFINITY 2.0](https://github.com/Parizval/Certificates/blob/master/src/HI_1-20.pdf)
 
+
+## ![](https://github.com/Parizval/Certificates/blob/master/img/win.png) Achivements
+
+   - HackIIITD 2019 Winner
+   
+   - KJSCE Hack 2019 Winner
+   
+   - HACKGTBIT 2020 - "Best Idea of Hackathon"
+
+   - Hack Infinity 2020 - "Matic Bounty Winner"
+   
 ## ![Dapps](https://github.com/Parizval/Certificates/blob/master/img/network.png) Blockchain
 
  - [Create Ethereum & Blockchain Applications Using Solidity](https://github.com/Parizval/Certificates/blob/master/src/UC-QWDPZTIQ.pdf)
